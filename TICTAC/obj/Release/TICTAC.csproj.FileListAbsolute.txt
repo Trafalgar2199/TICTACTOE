@@ -1,0 +1,10 @@
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\bin\Release\TICTAC.exe.config
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\bin\Release\TICTAC.exe
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\bin\Release\TICTAC.pdb
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\obj\Release\TICTAC.csprojAssemblyReference.cache
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\obj\Release\TICTAC.TICTACTOE.resources
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\obj\Release\TICTAC.Properties.Resources.resources
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\obj\Release\TICTAC.csproj.GenerateResource.cache
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\obj\Release\TICTAC.csproj.CoreCompileInputs.cache
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\obj\Release\TICTAC.exe
+C:\Users\razvi\Desktop\Facultate\AN3 S2\II\TICTAC\TICTAC\TICTAC\obj\Release\TICTAC.pdb
